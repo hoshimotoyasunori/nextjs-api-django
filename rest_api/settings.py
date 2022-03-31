@@ -27,7 +27,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG')
 
 
-ALLOWED_HOSTS = ['nextjs-api-django-rest-app.herokuapp.com']
+ALLOWED_HOSTS = ['nextjs-blog-todos-bvmk9hzwi-hoshimotoyasunori.vercel.app']
 
 
 # Application definition
